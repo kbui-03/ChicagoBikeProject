@@ -4,8 +4,8 @@ This is a repository for the mobility DSML group project. Welcome everyone to ou
 
 To-Do:
 
-Agree on a datset & Familiarize ourself with the domain and data
-Define a prediction/classification problem
+Agree on a datset & Familiarize ourself with the domain and data: DONE ✅
+Define a prediction/classification problem: DONE ✅
 -> Deliver: Finished Jupyter Notebook containing information about work so far
 
 -------- 1st Deadline 23:59h 25th May, 2025 -------------
