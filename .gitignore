@@ -1,0 +1,23 @@
+# Ignore temporary checkpoints
+.ipynb_checkpoints/
+
+# Ignore big data files
+*.csv
+*.tsv
+*.xlsx
+
+# Ignore notebook output if converted to script
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+*.env
+*.venv/
+.venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore hidden Mac files
+.DS_Store
